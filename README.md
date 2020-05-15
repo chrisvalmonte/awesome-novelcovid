@@ -29,6 +29,7 @@
 
 | Link  | Description  | Author | Language |
 |:------|:-------------|:-------|:---------|
+| [COVID Detail](https://covid19-confirmed.com) | User-friendly map and dashboard using React and Mapbox GL | [chrisvalmonte](https://github.com/chrisvalmonte) | English
 | [COVID Detail](https://coviddetail.com) | Basic COVID19 dashboard with country search. | [puf17640](https://github.com/puf17640) | English
 | [COVID Overview](https://covidoverview.com) | Basic COVID19 data visualization with country search. | [puf17640](https://github.com/puf17640) | English
 | [Virus Covid](https://viruscovid.tech) | Clean and simple dashboard showing numbers and statistics. | [kylerphilipps](https://github.com/kylerphillips) | English
